@@ -1,0 +1,4 @@
+Rol_No|Name|Gendr|Age|DOB|Admis_Year|Semestr|Phon_No|Father_Nam|Father_Occupa|Address|Fee|Fe_Paid|FeDue|Fe_Concession|Fe_Status|Fe_Concesi_Status|CGPA|Departm|Specialty|Uni|Campus||City
+
+10  Ali  male  20 2001  2019 2  328742924  Ahmed Army  Multan 200000  100000  100000  15    %  3  CS  Web  Nust  Isb  Isb
+11  Farhan  Male  18 2007  2024 1  345640945  Rehman DSP  RWP 200000  15000  50000  20    %  4  SE  Apps  BZU  Multan  isb
